@@ -1,2 +1,1 @@
-# implementation-training
-UC CMP Implementation Training
+# https://lukasgilbert.github.io/implementation-training/)https://lukasgilbert.github.io/implementation-training/
